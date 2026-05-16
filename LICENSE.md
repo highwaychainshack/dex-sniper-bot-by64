@@ -1,4 +1,4 @@
-# 
+# vip dex sniper bot Utility | transaction-batching + cross-chain-arbitrage is the best dex sniper bot, featuring transaction-batching and cross-chain-arbitrage. Smart, fast, and
 
 
 
